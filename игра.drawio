@@ -100,14 +100,17 @@
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-34" value="чешуя" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IlV3IpO0z9jPJY2mCKhL-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-36" value="фрукты" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-37" value="овощи" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-38" value="яйца" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-39" value="сферы стихий" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
