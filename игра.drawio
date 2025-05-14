@@ -112,6 +112,39 @@
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-39" value="сферы стихий" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-40" value="огонь" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-41" value="молния" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-42" value="ветер" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-43" value="вода" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-44" value="лед" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-45" value="яд" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-46" value="бездна" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-47" value="светоч" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-48" value="кристал" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-49" value="цель игры собрать все сферы стихий&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-50" value="прокачка" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
