@@ -17,31 +17,31 @@
           <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-5" value="ресурсы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-6" value="Прерятствия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-7" value="снаряжение" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1080" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-8" value="рынок" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-533" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="-600" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-9" value="гильдия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-10" value="оружие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1210" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-11" value="броня" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1080" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-12" value="сумки" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-950" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-13" value="инструменты" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-14" value="покупка" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="525" width="120" height="60" as="geometry" />
@@ -66,6 +66,48 @@
         </mxCell>
         <mxCell id="IlV3IpO0z9jPJY2mCKhL-21" value="природа" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-22" value="ингредиенты&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-23" value="материалы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-24" value="артефакты" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-26" value="травы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-27" value="ягоды" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-28" value="растения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-29" value="мясо" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-30" value="кости" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-31" value="руда" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-32" value="кожа" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-34" value="чешуя" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-36" value="фрукты" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlV3IpO0z9jPJY2mCKhL-37" value="овощи" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
