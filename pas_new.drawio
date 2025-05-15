@@ -302,7 +302,7 @@
         <mxCell id="pmHqVr79wdB7mCrw0Kby-56" value="x y" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmHqVr79wdB7mCrw0Kby-57" value="x y точки, радиус, x y&amp;nbsp; собственные, скорость вращения, радиус орбиты&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-57" value="x y точки, радиус орбиты, x y&amp;nbsp; собственные, скорость вращения, радиус&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="850" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-58" value="точки вращения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
