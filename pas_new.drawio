@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Страница — 1" id="bq9KxYCUMmGJR8o-uWSk">
-    <mxGraphModel dx="2492" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-65" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#00FF4C);strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="290" width="390" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#00FF4C);strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="615" width="845" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#00FF4C);strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="390" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="u5NV7hlbbeQhAZytZryK-1" value="main" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +104,9 @@
         <mxCell id="pmHqVr79wdB7mCrw0Kby-6" value="направление смещения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pmHqVr79wdB7mCrw0Kby-7" target="pmHqVr79wdB7mCrw0Kby-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-7" value="скорость&lt;div&gt;смещения&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
@@ -102,7 +114,7 @@
           <mxGeometry x="-330" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-9" value="точка вращения небесных тел" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-515" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-515" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-10" value="скорость вращения небесных тел" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="680" width="120" height="60" as="geometry" />
@@ -231,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-39" value="глобальные координаты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="520" width="160" height="30" as="geometry" />
+          <mxGeometry x="-535" y="630" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-40" value="отработка нажатия клавиш" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="305" width="120" height="60" as="geometry" />
@@ -290,8 +302,8 @@
         <mxCell id="pmHqVr79wdB7mCrw0Kby-56" value="x y" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmHqVr79wdB7mCrw0Kby-57" value="x y точки, радиус, x y&amp;nbsp; собственные, скорость вращения&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-57" value="x y точки, радиус, x y&amp;nbsp; собственные, скорость вращения, радиус орбиты&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="850" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmHqVr79wdB7mCrw0Kby-58" value="точки вращения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="855" y="740" width="110" height="30" as="geometry" />
@@ -299,8 +311,8 @@
         <mxCell id="pmHqVr79wdB7mCrw0Kby-59" value="сами объекты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="740" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pmHqVr79wdB7mCrw0Kby-60" value="радиус орбит&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="950" y="940" width="100" height="40" as="geometry" />
+        <mxCell id="pmHqVr79wdB7mCrw0Kby-61" value="-1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
