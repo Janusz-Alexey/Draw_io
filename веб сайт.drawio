@@ -11,7 +11,7 @@
           <mxGeometry x="-390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-3" value="регистрация&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-4" value="навигация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="190" width="120" height="60" as="geometry" />
@@ -38,37 +38,37 @@
           <mxGeometry x="-390" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-12" value="фио" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-13" value="номер телефона" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-14" value="лк admin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-15" value="расписание&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-16" value="лк user" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-17" value="конспекты" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-18" value="Курсы" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-19" value="Магазин" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-20" value="Игры задания статистика" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-21" value="JS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iEDYJgWhZVjtFQfLYAJL-22" value="Тест без смс и регистрации" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
